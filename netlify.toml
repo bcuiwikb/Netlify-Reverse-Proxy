@@ -6,7 +6,7 @@
   
 [[redirects]]
   from = "/*"
-  to = "https://work.110903.xyz/:splat"
+  to = "https://tg-cloud-dl.noyes.in/:splat"
   status = 200
   force = true
   headers = {X-From = "netlify", X-Custom-Token = "my custom token"}
